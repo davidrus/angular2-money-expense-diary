@@ -1,4 +1,5 @@
-# Angular money expanse diary written in Angular 2
+# Angular money expanse diary
+- written in Angular 2 & typescript
 
 ## Prerequisities
 - global gulp, tsd
