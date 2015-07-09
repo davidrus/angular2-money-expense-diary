@@ -1,0 +1,29 @@
+{
+  "name": "angular2-money-expense-diary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrus/angular2-money-expense-diary.git"
+  },
+  "author": "David Rus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidrus/angular2-money-expense-diary/issues"
+  },
+  "homepage": "https://github.com/davidrus/angular2-money-expense-diary#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-debug": "^2.0.1",
+    "gulp-inject": "^1.2.0",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-tslint": "^1.4.4",
+    "gulp-typescript": "^2.5.0",
+    "gulp-rimraf": "^0.1.1",
+    "del": "^1.2.0"
+  }
+}
